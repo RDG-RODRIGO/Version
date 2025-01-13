@@ -1,5 +1,5 @@
-<img src="./image/sewem/profile-logo.jpng" alt="banner">
-<h1 align="center"><img src="./dashboard/images/goatbot-logo.jpng" width="22px"> 𝐉𝐔𝐁𝐀𝐘𝐄𝐑 - 𝐁𝐎𝐓- 𝐁𝐎𝐓 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓 </h1>
+<img src="https://i.ibb.co/RQ28H2p/banner.png" alt="banner">
+<h1 align="center"><img src="https://i.ibb.co/RQ28H2p/banner.png" width="22px"> 𝐉𝐔𝐁𝐀𝐘𝐄𝐑 - 𝐁𝐎𝐓- 𝐁𝐎𝐓 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓 </h1>
 
 <!-- Github README -->
 <p align="center"><img src="https://img.shields.io/badge/I Am JUBAYER %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
